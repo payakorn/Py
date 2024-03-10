@@ -2,6 +2,8 @@
 
 ## Link
 
+Slice: (https://github.com/payakorn/Py/blob/main/Py.pdf)
+
 Data 1: (https://www.nso.go.th/nsoweb/downloadFile/stat_main_nso/AkMX/file_th)
 
 Data 2: (https://data.go.th/dataset/elderly-pension)
