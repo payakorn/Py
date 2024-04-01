@@ -15,3 +15,5 @@ Data 4: (https://raw.githubusercontent.com/payakorn/Py/main/chiang-mai%20univers
 Data 5: (https://raw.githubusercontent.com/payakorn/Py/main/c101.txt)
 
 Data 6: (https://raw.githubusercontent.com/payakorn/Py/main/data.csv)
+
+Colab: (https://colab.research.google.com/drive/1f8JxjQa4nFJ9KRDjm6yZf0TnlQHvyudv?usp=sharing)
